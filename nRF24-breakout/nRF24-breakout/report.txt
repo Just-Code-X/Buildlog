@@ -1,0 +1,20 @@
+Info: Reading netlist file 'C:\Users\osayi\OneDrive\Documents\kicad projects\op amp\nRF24-breakout\nRF24-breakout\nRF24-breakout.net'.
+
+Info: Using reference designators to match symbols and footprints.
+
+Info: Processing symbol 'U1:nRF24 FOOTPRINT LIBRARY:nRF24 FOOTPRINT'.
+Info: Processing symbol 'J1:Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D10.0mm_P5.00mm'.
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D10.0mm_P5.00mm').
+Changed REF** reference designator to C1.
+Changed C1 value from CP_Radial_D10.0mm_P5.00mm to 10uF.
+Updated C1 symbol association from  to /9aaf012c-5f13-4bd9-a152-8e2f5683a613.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'nRF24-breakout.kicad_sch'.
+Updated C1 footprint filters to 'CP_*'.
+Connected C1 pin 2 to Net-(J1-Pin_1).
+Connected C1 pin 1 to Net-(J1-Pin_8).
+
+
+Info: Total warnings: 0, errors: 0.
